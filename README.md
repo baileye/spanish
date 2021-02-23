@@ -1,3 +1,3 @@
 # José Armonía
 
-![it's me!](me.jpg)
+![it's me!](me.png)
