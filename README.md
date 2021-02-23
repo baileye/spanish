@@ -1,3 +1,3 @@
 # José Armonía
 
-![it's me!](me.png)
+![it's me!](https://raw.githubusercontent.com/baileye/spanish/main/me.png)
